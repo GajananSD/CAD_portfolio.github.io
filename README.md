@@ -1,15 +1,15 @@
 # [CAD Design Portfolio](https://gajanansd.github.io/)
 
-1.Spirometer\n
-2.Experiment setup for measuring Thermal diffusivity of metals
-3.Ball balancing on beam
-4.Universal joint
-5.Two axis wheel self balancing stick 
-6.Geneva wheel
-7.Automatic stamping machine
-8.Extended Surface Heat Transfer Setup Design
-9.Light Spectrometer Device
-10.4 – piston cylinder Assembly
-11.Tricopter body design
-12.Gear-piston assembly
-13.Propeller
+1.Spirometer<br>
+2.Experiment setup for measuring Thermal diffusivity of metals<br>
+3.Ball balancing on beam<br>
+4.Universal joint<br>
+5.Two axis wheel self balancing stick <br>
+6.Geneva wheel<br>
+7.Automatic stamping machine<br>
+8.Extended Surface Heat Transfer Setup Design<br>
+9.Light Spectrometer Device<br>
+10.4 – piston cylinder Assembly<br>
+11.Tricopter body design<br>
+12.Gear-piston assembly<br>
+13.Propeller<br>

@@ -1,4 +1,4 @@
-# [CAD Design Portfolio](https://gajanansd.github.io/)
+# [CAD Design Portfolio](https://gajanansd.github.io/CAD_portfolio.github.io/)
 
 1.Spirometer<br>
 2.Experiment setup for measuring Thermal diffusivity of metals<br>
